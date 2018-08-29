@@ -13,3 +13,4 @@
       </div>
     </footer>
     <!-- END footer -->
+    <?php wp_footer(); ?>
